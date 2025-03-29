@@ -16,3 +16,4 @@ class CommonProcessFault(CommonFaultBase):
 class CommonProcessFaultHelper(CommonModuleBase):
     def inject_fault(self):
         print('inject_fault')
+
